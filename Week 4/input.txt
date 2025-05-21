@@ -1,0 +1,6 @@
+Hello, World
+My name is Charles
+I am learning python
+Because Python is Cool. 
+Let's Learn Together. 
+

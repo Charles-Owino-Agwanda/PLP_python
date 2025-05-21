@@ -1,10 +1,10 @@
-#Weekly code challenge - Week 3
+# Weekly code challenge - Week 3
 
-#The program creates a dictionary from  user input
+# The program creates a dictionary from  user input
 
-#If only one dictionary is created, the program prints the dictionary
+# If only one dict is created, print the dictionary
 
-#If more than one dictionary is created, the program prints a list of dictionaries
+# If > 1 dict is created, print a list of dictionaries
 
 
 my_list = []
@@ -24,13 +24,5 @@ while True:
             print(my_list)
         break
     else:
-        print("Please enter the next set of values")
+        print("Please enter the next set of values", end="\n")
         continue
-
-
-
-
-
-        
-    	
-    
